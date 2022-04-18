@@ -2,7 +2,7 @@
   "name": "my-project",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "A Strapi application for hitman API",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -25,7 +25,7 @@
     "strapi-utils": "3.1.1"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Nemo frenkel"
   },
   "strapi": {
     "uuid": "4876abed-0e43-4586-a758-a9e05cddde6c"
